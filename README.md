@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hanspi42. Hanspi is a short form of my given name. 42, of course, is the answer.
 - 👀 I’m interested in using Python in teaching and engineering.
 - 🌱 I’m currently learning advanced SymPy methods.
-- 💞️ I am presently solving https://github.com/sympy/sympy/issues/7219
+- 💞️ I am presently solving https://github.com/sympy/sympy/issues/7219 in https://github.com/sympy/sympy/pull/22376
 - 📫 How to reach me: hanspeter.schmid@fhnw.ch
 
 <!---
