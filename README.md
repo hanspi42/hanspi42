@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @hanspi42. Hanspi is a short form of my given name. 42, of course, is the answer.
 - 👀 I’m interested in using Python in teaching and engineering.
 - 🌱 I’m currently learning advanced SymPy methods.
-- 💞️ I am presently re-writing the Laplace transform to use rules. Open pull requests:
+- 💞️ I am presently re-writing the Laplace transform to use rules. Open pull requests and issues:
   - https://github.com/sympy/sympy/pull/22630
+  - https://github.com/sympy/sympy/issues/22633
 - 📫 How to reach me: hanspeter.schmid@fhnw.ch
 
 <!---
